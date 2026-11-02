@@ -11,7 +11,7 @@
 
 ---
 
-I'm a third-year Computer Engineering student at Hacettepe University who enjoys building things that actually work — not just in theory, but in practice. I like combining software, hardware, and AI to solve real problems. Most of what I know comes from projects I've pushed myself to build from scratch.
+I'm a fourth-year Computer Engineering student at Hacettepe University who enjoys building things that actually work — not just in theory, but in practice. I like combining software, hardware, and AI to solve real problems. Most of what I know comes from projects I've pushed myself to build from scratch.
 
 ---
 
